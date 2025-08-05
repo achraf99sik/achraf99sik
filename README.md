@@ -7,8 +7,10 @@ I'm a passionate developer with a strong focus on web and platform development. 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-%23186497?style=for-the-badge&logo=Python&logoColor=186497&labelColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-%23474A8A?style=for-the-badge&logo=php&logoColor=474A8A&labelColor=FFFFFF)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2400?style=for-the-badge&logo=Laravel&logoColor=FF2400&labelColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F?style=for-the-badge&logo=PostgreSQL&logoColor=00758F&labelColor=FFFFFF)
@@ -38,7 +40,8 @@ I'm a passionate developer with a strong focus on web and platform development. 
 - **[Sikalfut](https://github.com/achraf99sik/sikalfut):** A JavaScript project showcasing my front-end development skills.
 
 ## GitHub Stats
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achraf99sik&show_icons=true&theme=radical)
+![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achraf99sik&show_icons=true&theme=dracula)
+![Achraf's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=achraf99sik&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=false&order=2)
 
 ## Interests
 - Designing and building scalable web platforms.  
