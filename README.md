@@ -4,8 +4,9 @@
 I'm a passionate developer with a strong focus on web and platform development. I specialize in PHP, MySQL, TailwindCSS, and JavaScript, and I enjoy creating innovative solutions that solve real-world problems. I thrive on working on collaborative projects, continuously improving my skills, and sharing knowledge with others.
 
 ## Skills
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=FFFFFF)
+
+![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=007396&labelColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-%23186497?style=for-the-badge&logo=Python&logoColor=186497&labelColor=FFFFFF)
@@ -15,6 +16,8 @@ I'm a passionate developer with a strong focus on web and platform development. 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F?style=for-the-badge&logo=PostgreSQL&logoColor=00758F&labelColor=FFFFFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=FFFFFF)
 ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-%23520088?style=for-the-badge&logo=bootstrap&logoColor=520088&labelColor=FFFFFF)
 
 
