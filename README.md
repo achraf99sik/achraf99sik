@@ -54,6 +54,6 @@ I'm a passionate developer with a strong focus on web and platform development. 
 
 ## Contact
 Feel free to reach out to me via:  
-[![](https://img.shields.io/badge/Linekin-%2300758F?style=for-the-badge&logo=linekin&logoColor=00758F&labelColor=FFFFFF)](https://www.linkedin.com/in/achraf-sikal/)  
+[![](https://img.shields.io/badge/Linkedin-%2300758F?style=for-the-badge&logo=linkedin&logoColor=00758F&labelColor=FFFFFF)](https://www.linkedin.com/in/achraf-sikal/)  
 
 Thanks for stopping by! 🚀  
